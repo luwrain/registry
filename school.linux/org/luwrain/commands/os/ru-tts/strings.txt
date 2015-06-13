@@ -1,0 +1,1 @@
+"command" = "lwr-ru-tts"
