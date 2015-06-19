@@ -1,1 +1,1 @@
-"content" = "twitter:reader:commander:notepad:news:fetch"
+"content" = "wiki:twitter:reader:news:fetch:commander:notepad:quit"

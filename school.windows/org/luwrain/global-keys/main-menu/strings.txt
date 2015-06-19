@@ -1,1 +1,1 @@
-"non-character" = "f11"
+"character" = "f"

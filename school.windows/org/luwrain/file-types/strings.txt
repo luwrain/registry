@@ -1,0 +1,5 @@
+"txt" = "notepad"
+"doc" = "reader"
+"docx" = "reader"
+"html" = "reader"
+"htm" = "reader"

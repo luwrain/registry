@@ -1,1 +1,1 @@
-"content" = "twitter:commander:notepad:news:fetch::rhvoice:ru-tts::shutdown"
+"content" = "wiki:twitter:reader:news:fetch:commander:notepad::rhvoice:ru-tts::shutdown"
