@@ -1,0 +1,3 @@
+"full-name" = "Foo Bar"
+"default-mail-address" = "foo.bar@yandex.ru"
+"signature" = "Всего хорошего,nnВаш Luwrain!nn"
