@@ -1,1 +1,1 @@
-"with-shift" = "true"
+"with-control" = "true"

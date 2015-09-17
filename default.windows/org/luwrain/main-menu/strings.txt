@@ -1,1 +1,1 @@
-"content" = "wiki:twitter:reader:news:message:fetch:commander:notepad:quit"
+"content" = "browser:control-panel:wiki:twitter:reader:news:mail:message:fetch:binder:contacts:diary:calc:commander:notepad:quit"

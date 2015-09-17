@@ -1,1 +1,1 @@
-"non-character" = "insert"
+"character" = ""

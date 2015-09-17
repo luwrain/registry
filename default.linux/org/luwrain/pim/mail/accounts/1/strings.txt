@@ -1,4 +1,0 @@
-"type" = "smtp"
-"host" = "smtp.yandex.ru"
-"login" = ""
-"passwd" = ""
