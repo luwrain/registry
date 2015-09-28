@@ -1,2 +1,5 @@
-"000001" = "file:/"
-"000002" = "command:notepad"
+"000001" = "mailfolder:6"
+"000002" = "command:news"
+"000003" = "command:commander"
+"000004" = "command:wiki"
+"000005" = "command:term"

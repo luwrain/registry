@@ -1,0 +1,3 @@
+"action" = "move-to-folder"
+"dest-folder-uniref" = "Почтовая группа Списки рассылок"
+"header-regex" = "^List-Id:"
