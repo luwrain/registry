@@ -1,6 +1,6 @@
-"000001" = "mailfolder:6"
 "000002" = "command:news"
 "000003" = "command:commander"
 "000004" = "command:reader-search-google"
 "000005" = "command:wiki"
 "000006" = "command:term"
+"000007" = "command:reader-luwrain-homepage"
