@@ -1,1 +1,1 @@
-"non-character" = "delete"
+"non-character" = "alternative-delete"
