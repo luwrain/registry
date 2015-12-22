@@ -1,0 +1,2 @@
+"title" = "Либрусек"
+"url" = "http://lib.rus.ec/opds"
