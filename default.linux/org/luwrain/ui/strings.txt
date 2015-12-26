@@ -1,1 +1,1 @@
-"launch-greeting" = "Открыт рабочий стол"
+"launch-greeting" = "Рабочий стол"
