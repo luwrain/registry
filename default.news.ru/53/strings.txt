@@ -1,0 +1,3 @@
+"name" = "South China Morning Post"
+"url1" = "http://www.scmp.com/rss/2/feed"
+"url2" = "http://www.scmp.com/rss/4/feed"

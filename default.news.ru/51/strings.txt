@@ -1,2 +1,2 @@
-"name" = "Reuters"
-"url1" = "http://feeds.reuters.com/reuters/MostRead"
+"name" = "New York Times"
+"url1" = "http://rss.nytimes.com/services/xml/rss/nyt/InternationalHome.xml"

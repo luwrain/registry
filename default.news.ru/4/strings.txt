@@ -1,2 +1,2 @@
-"name" = "Коммерсант"
+"name" = "Коммерсантъ"
 "url1" = "http://www.kommersant.ru/RSS/main.xml"
