@@ -1,3 +1,2 @@
-"type" = "command"
-"name" = "RHVoice"
-"command" = "RHVoice"
+"type" = "voiceman"
+"name" = "VoiceMan speech server"

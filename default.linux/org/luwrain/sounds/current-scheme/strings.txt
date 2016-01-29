@@ -1,4 +1,5 @@
 "event-not-processed" = "sounds/schemes/pragmatic/event-not-processed.wav"
+"doc-section" = "sounds/schemes/pragmatic/doc-section.wav"
 "general-error" = "sounds/schemes/pragmatic/general-error.wav"
 "message-done" = "sounds/schemes/pragmatic/message-done.wav"
 "message-not-ready" = "sounds/schemes/pragmatic/message-not-ready.wav"
