@@ -1,2 +1,2 @@
-"title" = "Либрусек"
-"url" = "http://lib.rus.ec/opds"
+"title" = "LITLIB"
+"url" = "http://fb.litlib.net"

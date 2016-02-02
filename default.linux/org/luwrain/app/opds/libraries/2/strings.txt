@@ -1,2 +1,2 @@
-"title" = "АСМОДЕЙ"
-"url" = "http://asmodei.ru/opds/"
+"title" = "Флибуста"
+"url" = "http://flibusta.is/opds"
