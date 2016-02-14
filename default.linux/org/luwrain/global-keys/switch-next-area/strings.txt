@@ -1,1 +1,1 @@
-"non-character" = "tab"
+"special" = "tab"

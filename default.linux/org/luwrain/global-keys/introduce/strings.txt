@@ -1,1 +1,1 @@
-"non-character" = "f1"
+"special" = "f1"

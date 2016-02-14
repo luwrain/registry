@@ -1,2 +1,2 @@
-"with-left-alt" = "true"
+"with-alt" = "true"
 "with-control" = "true"

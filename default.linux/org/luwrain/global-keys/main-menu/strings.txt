@@ -1,1 +1,1 @@
-"non-character" = "windows"
+"special" = "windows"
