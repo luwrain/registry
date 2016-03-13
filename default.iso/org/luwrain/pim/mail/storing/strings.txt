@@ -1,5 +1,5 @@
 "type" = "jdbc"
 "driver" = "org.hsqldb.jdbc.JDBCDriver"
-"url" = "jdbc:hsqldb:file:<insert-path-here>/mail"
+"url" = "jdbc:hsqldb:file:/home/luwrain/.luwrain/hsqldb/mail"
 "login" = "sa"
 "passwd" = ""

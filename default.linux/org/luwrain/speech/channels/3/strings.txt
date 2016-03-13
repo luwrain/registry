@@ -1,3 +1,0 @@
-"type" = "command"
-"name" = "RHVoice (books)"
-"to-stream-command" = "RHVoice -r 1.6 | sox -t wav - -t raw -"
