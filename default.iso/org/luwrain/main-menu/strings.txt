@@ -1,0 +1,1 @@
+"content" = "player:opds:narrator:mail:news:open-url:twitter:wiki:message:contacts:wifi:commander:term:notepad:calc:control-panel:quit"

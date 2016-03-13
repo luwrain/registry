@@ -1,0 +1,7 @@
+"host" = "pop3.yandex.ru"
+"login" = "@yandex.ru"
+"passwd" = ""
+"subst-address" = ""
+"subst-name" = ""
+"title" = "pop.yandex"
+"type" = "pop3"

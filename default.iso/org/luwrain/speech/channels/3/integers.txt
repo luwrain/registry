@@ -1,0 +1,6 @@
+"default-pitch" = "50"
+"default-pitch" = "50"
+"sample-rate" = "16000"
+"sample-size" = "16"
+"num-channels" = "1"
+

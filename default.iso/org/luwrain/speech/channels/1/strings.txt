@@ -1,0 +1,2 @@
+"type" = "voiceman"
+"name" = "VoiceMan speech server"
