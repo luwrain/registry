@@ -1,0 +1,2 @@
+"title" = "Интернет"
+"uni-refs" = "command:open-url\:command:twitter"

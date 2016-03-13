@@ -5,6 +5,7 @@
 "message-not-ready" = "sounds/schemes/pragmatic/message-not-ready.wav"
 "message-ok" = "sounds/schemes/pragmatic/message-ok.wav"
 "no-applications" = "sounds/schemes/pragmatic/no-applications.wav"
+"no-content" = "sounds/schemes/pragmatic/no-content.wav"
 "startup" = "sounds/schemes/pragmatic/startup.wav"
 "shutdown" = "sounds/schemes/pragmatic/shutdown.wav"
 "main-menu" = "sounds/schemes/pragmatic/main-menu.wav"

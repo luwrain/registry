@@ -1,0 +1,2 @@
+"title" = "Инструменты"
+"uni-refs" = "command:commander\:command:player\:command:notepad\:command:control"
