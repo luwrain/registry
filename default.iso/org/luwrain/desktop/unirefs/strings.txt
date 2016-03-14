@@ -1,4 +1,4 @@
-"000001" = "command:player"
+"000001" = "file:/home/luwrain/daisy-demo/ncc.html"
 "000002" = "command:opds"
 "000003" = "command:wiki"
 "000004" = "command:news"
