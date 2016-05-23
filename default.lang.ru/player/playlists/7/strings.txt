@@ -1,0 +1,2 @@
+"title" = "Европа Плюс"
+"url" = "http://radio.zavolga.net:8000/europaplus"
