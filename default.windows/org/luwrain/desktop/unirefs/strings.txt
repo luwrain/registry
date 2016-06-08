@@ -1,2 +1,0 @@
-"000001" = "file:/"
-"000002" = "command:notepad"

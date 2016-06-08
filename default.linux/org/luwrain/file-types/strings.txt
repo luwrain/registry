@@ -1,7 +1,0 @@
-"txt" = "notepad"
-"doc" = "reader"
-"docx" = "reader"
-"html" = "reader"
-"htm" = "reader"
-"mp3" = "player-single-local"
-"wav" = "player-single-local"

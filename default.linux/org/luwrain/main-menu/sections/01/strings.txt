@@ -1,2 +1,0 @@
-"title" = "Интернет"
-"uni-refs" = "command:news\:command:mail\:command:message\:command:open-url\:command:twitter"

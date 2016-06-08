@@ -1,1 +1,0 @@
-"content" = "browser:control-panel:wiki:twitter:reader:news:mail:message:fetch:binder:contacts:diary:calc:commander:notepad:quit"

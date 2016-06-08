@@ -1,2 +1,0 @@
-"title" = "Книги и документы"
-"uni-refs" = "command:opds\:command:wiki\:command:narrator"

@@ -1,3 +1,0 @@
-"name" = "Gulf News"
-"url1" = "http://gulfnews.com/cmlink/1.734148"
-"url2" = "http://gulfnews.com/cmlink/1.446094"

@@ -1,2 +1,0 @@
-"name" = "НТВ"
-"url1" = "http://www.ntv.ru/exp/newsrss_top.jsp"

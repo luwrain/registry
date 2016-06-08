@@ -1,3 +1,0 @@
-"full-name" = "LUWRAIN"
-"default-mail-address" = "foo.bar@yandex.ru"
-"signature" = "LUWRAIN!"

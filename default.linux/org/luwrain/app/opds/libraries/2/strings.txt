@@ -1,2 +1,0 @@
-"title" = "Флибуста"
-"url" = "http://flibusta.is/opds"

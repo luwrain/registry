@@ -1,2 +1,0 @@
-"title" = "Радио ВОС"
-"url" = "http://radio.radiovos.ru:8000/radio"
