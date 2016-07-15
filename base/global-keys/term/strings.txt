@@ -1,1 +1,1 @@
-"special" = "f4"
+"character" = "t"
