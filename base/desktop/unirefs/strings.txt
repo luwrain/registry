@@ -1,4 +1,4 @@
-"000001" = "command:opds"
+"000001" = "command:player"
 "000002" = "command:wiki"
 "000003" = "command:news"
 "000004" = "command:reader-search-google"
