@@ -1,7 +1,0 @@
-"host" = "smtp.yandex.ru"
-"login" = "@yandex.ru"
-"passwd" = ""
-"subst-address" = ""
-"subst-name" = ""
-"title" = "smtp.yandex"
-"type" = "smtp"

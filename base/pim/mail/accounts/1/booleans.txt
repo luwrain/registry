@@ -1,4 +1,0 @@
-"def" = "false"
-"default" = "false"
-"ssl" = "true"
-"tls" = "false"
