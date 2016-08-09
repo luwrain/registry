@@ -3,6 +3,7 @@
 "docx" = "reader"
 "html" = "reader"
 "htm" = "reader"
+"fb2" = "reader"
 "mp3" = "player-single-local"
 "m3u" = "player"
 "wav" = "player-single-local"
