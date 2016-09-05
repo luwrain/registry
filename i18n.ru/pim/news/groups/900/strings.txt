@@ -1,0 +1,2 @@
+"name" = "Тёма"
+"url1" = "http://tema.livejournal.com/data/rss/"

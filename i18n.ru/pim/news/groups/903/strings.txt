@@ -1,0 +1,4 @@
+"name" = "Томск"
+"url1" = "http://www.riatomsk.ru/rss.xml"
+"url2" = "http://news.rambler.ru/rss/Tomsk/"
+"url3" = "http://static.feed.rbc.ru/rbc/internal/rss.rbc.ru/region_news/nsk.rss"
