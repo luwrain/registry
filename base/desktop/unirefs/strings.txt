@@ -1,2 +1,3 @@
 "000001" = "command:school"
 "000002" = "command:exam"
+"000003" = "file:/home/luwrain/society/ncc.html"
