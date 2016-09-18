@@ -1,2 +1,0 @@
-"name" = "Кураев"
-"url1" = "http://diak-kuraev.livejournal.com/data/rss/"

@@ -1,2 +1,0 @@
-"media-content-type" = ""
-"name" = "Новая группа"

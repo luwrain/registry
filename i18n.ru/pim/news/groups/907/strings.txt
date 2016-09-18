@@ -1,5 +1,0 @@
-"media-content-type" = ""
-"name" = "proba"
-"url1" = "1"
-"url2" = "12"
-"url3" = "123"

@@ -1,2 +1,0 @@
-"name" = "Аэрофлот"
-"url1" = "https://www.aeroflot.ru/cms/news/rss"
