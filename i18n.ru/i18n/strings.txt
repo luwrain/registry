@@ -1,0 +1,1 @@
+"charsets" = "IBM866:ISO-8859-5:KOI8-R:UTF-8:windows-1251"
