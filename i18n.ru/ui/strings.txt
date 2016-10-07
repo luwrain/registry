@@ -1,1 +1,1 @@
-"launch-greeting" = "Приветик, дорогие дети!"
+"launch-greeting" = "Рабочий стол"
