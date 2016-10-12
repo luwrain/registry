@@ -1,0 +1,2 @@
+"title" = "Образование"
+"uni-refs" = "command:school\:command:exam"

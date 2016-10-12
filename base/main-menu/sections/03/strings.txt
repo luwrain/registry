@@ -1,2 +1,0 @@
-"title" = "Инструменты"
-"uni-refs" = "command:wifi\:command:commander\:command:player\:command:contacts\:command:notepad\:command:control-panel"
