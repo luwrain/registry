@@ -1,0 +1,2 @@
+"type" = "msapi"
+"name" = "Microsoft Speech API"
