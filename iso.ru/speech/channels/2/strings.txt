@@ -1,3 +1,0 @@
-"type" = "command"
-"name" = "RHVoice"
-"to-speakers-command" = "RHVoice -r 1.6 | aplay"
