@@ -1,2 +1,3 @@
-"type" = "msapi"
+"type" = "sapi"
+"cond" = ""
 "name" = "Microsoft Speech API"
