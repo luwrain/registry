@@ -1,6 +1,6 @@
 "type" = "jdbc"
 "driver" = "org.sqlite.JDBC"
-"url" = "jdbc:sqlite:/home/luwrain/.luwrain/sqlite/news.db"
+"url" = "jdbc:sqlite:$userdata/sqlite/news.db"
 "login" = ""
 "passwd" = ""
 "init-proc" = "sqlite-wal"

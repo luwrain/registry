@@ -1,6 +1,6 @@
 "type" = "jdbc"
 "driver" = "org.sqlite.JDBC"
-"url" = "jdbc:sqlite:/home/luwrain/.luwrain/sqlite/mail.db"
+"url" = "jdbc:sqlite:$userdata/sqlite/mail.db"
 "login" = ""
 "passwd" = ""
 "init-proc" = "sqlite-wal"
