@@ -1,1 +1,1 @@
-"title" = "luwrain-mail-folder-root"
+"title" = "Почтовые группы"

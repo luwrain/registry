@@ -1,1 +1,1 @@
-"title" = "luwrain-mail-folder-drafts"
+"title" = "Черновики"

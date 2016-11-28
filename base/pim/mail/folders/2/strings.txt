@@ -1,1 +1,1 @@
-"title" = "luwrain-mail-folder-inbox"
+"title" = "Входящие"

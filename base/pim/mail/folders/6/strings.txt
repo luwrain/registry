@@ -1,1 +1,1 @@
-"title" = "luwrain-mail-folder-private"
+"title" = "Личная корреспонденция"

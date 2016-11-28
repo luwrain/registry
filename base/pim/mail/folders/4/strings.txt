@@ -1,1 +1,1 @@
-"title" = "luwrain-mail-folder-sent"
+"title" = "Отправленные"
