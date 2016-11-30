@@ -1,5 +1,5 @@
 "fetching" = "background/fetching1.ogg"
-"main-menu" = "background/mainmenu1.ogg"
+"main-menu" = ""
 "popup" = "background/popup1.ogg"
 "search" = "background/search1.ogg"
 "starting" = "background/starting1.ogg"
