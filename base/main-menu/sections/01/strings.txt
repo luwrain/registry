@@ -1,2 +1,2 @@
 "title" = "Интернет"
-"uni-refs" = "command:reader-open-auto\:command:mail\:command:news\:command:wiki\:command:twitter"
+"uni-refs" = "command:reader-open-auto\:command:chat\:command:mail\:command:news\:command:wiki\:command:twitter"
