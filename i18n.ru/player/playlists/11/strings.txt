@@ -1,0 +1,2 @@
+"title" = "Хиты 80-х"
+"url" = "http://radio.2kom.ru:8000/1hits80s"

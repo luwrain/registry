@@ -1,2 +1,2 @@
-"title" = "Мир"
-"url" = "http://icecast.mirtv.cdnvideo.ru:8000/radio_mir128"
+"title" = "Премиум"
+"url" = "http://listen.rpfm.ru:9000/premium128"

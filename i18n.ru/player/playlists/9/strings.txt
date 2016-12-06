@@ -1,0 +1,2 @@
+"title" = "Джаз"
+"url" = "http://music.myradio.com.ua:8000/JazzRockFusion128.mp3"

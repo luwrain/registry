@@ -1,0 +1,2 @@
+"title" = "Радио Маяк"
+"url" = "http://icecast.vgtrk.cdnvideo.ru/mayakfm_mp3_64kbps"

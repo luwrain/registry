@@ -1,2 +1,2 @@
-"title" = "Европа Плюс"
-"url" = "http://radio.zavolga.net:8000/europaplus"
+"title" = "Радио Шансон"
+"url" = "http://www.nts-tv.ru:8000/Shanson"

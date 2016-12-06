@@ -1,0 +1,2 @@
+"title" = "Серебряный дождь"
+"url" = "http://radio.2kom.ru:8000/silver"

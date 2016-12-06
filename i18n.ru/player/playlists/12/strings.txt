@@ -1,0 +1,2 @@
+"title" = "Эхо Москвы"
+"url" = "http://radio.2kom.ru:8000/moscowecho128.mp3"

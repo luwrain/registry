@@ -1,2 +1,2 @@
-"title" = "Ретро FM"
-"url" = "http://retroserver.streamr.ru:8043/retro128"
+"title" = "Мир"
+"url" = "http://icecast.mirtv.cdnvideo.ru:8000/radio_mir128"
