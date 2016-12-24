@@ -1,4 +1,3 @@
-
 "blocked" = "sounds/schemes/pragmatic/blocked.wav"
 "cancel" = "sounds/schemes/pragmatic/cancel.wav"
 "chat-message" = "sounds/schemes/pragmatic/chat-message.wav"
@@ -21,6 +20,7 @@
 "main-menu-empty-line" = "sounds/schemes/pragmatic/main-menu-empty-line.wav"
 "main-menu-item" = "sounds/schemes/pragmatic/main-menu-item.wav"
 "main-menu" = "sounds/schemes/pragmatic/main-menu.wav"
+"message" = "sounds/schemes/pragmatic/message.wav"
 "no-applications" = "sounds/schemes/pragmatic/no-applications.wav"
 "no-content" = "sounds/schemes/pragmatic/no-content.wav"
 "no-items-above" = "sounds/schemes/pragmatic/no-items-above.wav"
