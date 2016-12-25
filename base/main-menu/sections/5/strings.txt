@@ -1,2 +1,2 @@
 "title" = "Завершение работы"
-"uni-refs" = "command:shutdown\:command:suspend\:command:reboot"
+"uni-refs" = "command:quit"
