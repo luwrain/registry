@@ -1,0 +1,2 @@
+"title" = "Журнал ""Самиздат"""
+"url" = "http://opdshome.uo1.net/samlib/"

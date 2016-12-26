@@ -1,0 +1,2 @@
+"title" = "Fantasy World"
+"url" = "http://f-w.in/opds"
