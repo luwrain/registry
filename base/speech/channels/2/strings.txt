@@ -1,3 +1,3 @@
 "type" = "rhvoice"
 "name" = "RHVoice (listening)"
-"voice-name" = "Irina"
+"voice-name" = "Anna"
