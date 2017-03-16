@@ -3,4 +3,4 @@
 "http-proxy-user" = ""
 "http-proxy-password" = ""
 "socks-proxy-host" = ""
-"socks-proxy-host" = ""
+"socks-proxy-port" = ""
