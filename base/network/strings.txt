@@ -1,0 +1,6 @@
+"http-proxy-host" = ""
+"http-proxy-port" = ""
+"http-proxy-user" = ""
+"http-proxy-password" = ""
+"socks-proxy-host" = ""
+"socks-proxy-host" = ""
