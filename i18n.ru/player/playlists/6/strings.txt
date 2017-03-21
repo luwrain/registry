@@ -1,2 +1,3 @@
 "title" = "Ретро FM"
+"type" = "streaming"
 "url" = "http://retroserver.streamr.ru:8043/retro128"

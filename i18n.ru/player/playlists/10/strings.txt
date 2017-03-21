@@ -1,2 +1,3 @@
-"title" = "Серебряный дождь"
-"url" = "http://radio.2kom.ru:8000/silver"
+"title" = "Хиты 80-х"
+"type" = "streaming"
+"url" = "http://radio.2kom.ru:8000/1hits80s"
