@@ -1,0 +1,3 @@
+"title" = "Юмор FM"
+"type" = "streaming"
+"url" = "http://ic2.101.ru:8000/s12"

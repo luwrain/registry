@@ -1,0 +1,3 @@
+"title" = "Дорожное радио"
+"type" = "streaming"
+"url" = "http://radio.2kom.ru:8000/Dorognoe"

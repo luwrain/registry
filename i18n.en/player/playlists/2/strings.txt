@@ -1,0 +1,3 @@
+"title" = "Радио РАНСИС"
+"type" = "streaming"
+"url" = "http://radio.ransis.org:8000/ransis"
