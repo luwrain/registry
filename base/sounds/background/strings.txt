@@ -1,4 +1,4 @@
-"starting" = ""
+"starting" = "background/starting.ogg"
 "main-menu" = ""
 "search" = ""
 "popup" = "background/popup.ogg"
