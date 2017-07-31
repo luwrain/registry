@@ -1,3 +1,4 @@
+"announcement" = "sounds/schemes/pragmatic/announcement.wav"
 "blocked" = "sounds/schemes/pragmatic/blocked.wav"
 "cancel" = "sounds/schemes/pragmatic/cancel.wav"
 "chat-message" = "sounds/schemes/pragmatic/chat-message.wav"
@@ -36,3 +37,5 @@
 "startup" = "sounds/schemes/pragmatic/startup.wav"
 "table-cell" = "sounds/schemes/pragmatic/table-cell.wav"
 "term-bell" = "sounds/schemes/pragmatic/term-bell.wav"
+"selected" = "sounds/schemes/pragmatic/selected.wav"
+"unselected" = "sounds/schemes/pragmatic/unselected.wav"
