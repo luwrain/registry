@@ -1,2 +1,2 @@
-"title" = "Книги и документы"
-"uni-refs" = "command:opds\:command:reader\:command:narrator"
+"title" = "Сеть и общение"
+"uni-refs" = "command:browser\:command:telegram\:command:twitter\:command:wiki\:command:mail\:command:news\:command:opds"
