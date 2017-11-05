@@ -1,2 +1,3 @@
-"name" = "НТВ"
-"url1" = "http://www.ntv.ru/exp/newsrss_top.jsp"
+"name" = "РБК"
+"url1" = "http://static.feed.rbc.ru/rbc/logical/footer/news.rss"
+"url2" = "http://static.feed.rbc.ru/rbc/internal/rss.rbc.ru/rbc.ru/newsline.rss"
