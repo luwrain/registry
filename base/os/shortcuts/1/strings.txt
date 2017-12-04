@@ -1,2 +1,0 @@
-"name" = "mplayer"
-"command" = "mplayer -fs "
