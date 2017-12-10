@@ -1,9 +1,16 @@
 #!/bin/bash -e
+# Copyright 2012-2017 Michael Pozhidaev <michael.pozhidaev@gmail.com>
+# Compile registry data to common text files
+# lwr-reg-compile FLAVOR DEST_DIR
 
 THIS="${0##*/}"
 
+LANGS="en ru"
+
 [ -z "$1" ] && echo "$THIS:no flavor given" >&2 && exit 1
+[ -z "$2" ] && echo "$THIS:no destination directory given" >&2 && exit 1
 FLAVOR="$1"
+DEST_DIR="$2"
 
 if ! [ -d base.$FLAVOR ]; then
     echo "$THIS:no such flavor:$FLAVOR" >&2
@@ -18,17 +25,33 @@ process-file()
     fi
 }
 
-for i in base base.$FLAVOR; do
-    cd $i
-
+process-dir()
+{
+        cd $1
     find -type d | while read l; do
 	if [ "$l" != . ]; then
-	    echo "DIR ${l#./}"
+	    echo "DIR org/luwrain/${l#./}"
 	    process-file "$l" strings.txt
 	    process-file "$l" integers.txt
-	    process-file "$l"booleans.txt
-	    
-	    fi
-	done
+	    process-file "$l" booleans.txt
+	fi
+    done
     cd ..
+}
+
+(
+for i in base base.$FLAVOR; do
+    process-dir $i
+done
+) > "$DEST_DIR/registry.dat"
+
+for i in $LANGS; do
+    (
+	if [ -d "i18n.$i" ]; then
+	    process-dir "i18n.$i"
+	fi
+	if [ -d "i18n.$i.$FLAVOR" ]; then
+	    process-dir "i18n.$i.$FLAVOR"
+	fi
+    ) > "$DEST_DIR/registry.$i.dat"
 done
