@@ -1,0 +1,34 @@
+#!/bin/bash -e
+
+THIS="${0##*/}"
+
+[ -z "$1" ] && echo "$THIS:no flavor given" >&2 && exit 1
+FLAVOR="$1"
+
+if ! [ -d base.$FLAVOR ]; then
+    echo "$THIS:no such flavor:$FLAVOR" >&2
+    exit 1
+fi
+
+process-file()
+{
+    if [ -r "$1/$2" ] && [ "$(cat "$1/$2" | wc -l)" -ge 1 ]; then
+	echo "FILE $2"
+	cat "$1/$2"
+    fi
+}
+
+for i in base base.$FLAVOR; do
+    cd $i
+
+    find -type d | while read l; do
+	if [ "$l" != . ]; then
+	    echo "DIR ${l#./}"
+	    process-file "$l" strings.txt
+	    process-file "$l" integers.txt
+	    process-file "$l"booleans.txt
+	    
+	    fi
+	done
+    cd ..
+done
