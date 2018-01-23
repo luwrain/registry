@@ -1,2 +1,0 @@
-"title" = "Радио РАНСИС"
-"url" = "http://radio.ransis.org:8000/ransis"

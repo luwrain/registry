@@ -3,4 +3,4 @@
 "url" = "jdbc:sqlite:$userdata/sqlite/news.db"
 "login" = ""
 "passwd" = ""
-"init-proc" = "sqlite-wal"
+"init-proc" = "sqlite"

@@ -3,4 +3,4 @@
 "url" = "jdbc:sqlite:$userdata/sqlite/mail.db"
 "login" = ""
 "passwd" = ""
-"init-proc" = "sqlite-wal"
+"init-proc" = "sqlite"

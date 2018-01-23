@@ -1,5 +1,0 @@
-"cycling-popup-lists" = "true"
-"cycling-regular-lists" = "true"
-"empty-line-above-popup-lists" = "true"
-"empty-line-under-regular-lists" = "false"
-"file-popup-skip-hidden" = "true"

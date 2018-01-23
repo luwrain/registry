@@ -40,6 +40,7 @@ process-dir()
 }
 
 (
+    echo 'DIR org/luwrain'
 for i in base base.$FLAVOR; do
     process-dir $i
 done
@@ -47,6 +48,7 @@ done
 
 for i in $LANGS; do
     (
+	echo 'DIR org/luwrain'
 	if [ -d "i18n.$i" ]; then
 	    process-dir "i18n.$i"
 	fi
