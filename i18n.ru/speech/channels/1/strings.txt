@@ -1,3 +1,3 @@
 "type" = "rhvoice"
-"name" = "RHVoice (interaction)"
+"name" = "RHVoice (интерактивная работа)"
 "voice-name" = "Aleksandr"
