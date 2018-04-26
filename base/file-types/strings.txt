@@ -6,6 +6,7 @@
 "flac" = "player-single-local"
 "html" = "reader"
 "htm" = "reader"
+"lwrproj" = "studio"
 "m3u" = "player"
 "mkv" = "mplayer"
 "mov" = "mplayer"
