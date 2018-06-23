@@ -1,2 +1,2 @@
 "title" = "Сеть и общение"
-"uni-refs" = "command:browser\:command:telegram\:command:twitter\:command:wiki\:command:mail\:command:news\:command:opds"
+"uni-refs" = "command:browser\:command:twitter\:command:wiki\:command:mail\:command:news\:command:opds"
