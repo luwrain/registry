@@ -8,6 +8,7 @@
 "copied" = "schemes/pragmatic/copied.wav"
 "cut" = "schemes/pragmatic/cut.wav"
 "deleted" = "schemes/pragmatic/deleted.wav"
+"desktop-item" = "schemes/pragmatic/desktop-item.wav"
 "doc-section" = "schemes/pragmatic/section.wav"
 "done" = "schemes/pragmatic/done.wav"
 "empty-line" = "schemes/pragmatic/empty-line.wav"
