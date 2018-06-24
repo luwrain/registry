@@ -1,6 +1,8 @@
-"starting" = ""
-"main-menu" = ""
+"starting" = "background/starting.ogg"
+"main-menu" = "background/starting.ogg"
 "search" = ""
 "popup" = "background/popup.ogg"
 "wifi" = "background/wifi.ogg"
 "fetching" = "background/progress.ogg"
+
+
