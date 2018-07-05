@@ -1,4 +1,0 @@
-"answers-url" = "jdbc:mysql://77.244.215.52/answers?useUnicode=true&characterEncoding=UTF-8"
-"school-login" = "morozov"
-"school-passwd" = ""
-"school-url" = "jdbc:mysql://77.244.215.52/school?useUnicode=true&characterEncoding=UTF-8"
