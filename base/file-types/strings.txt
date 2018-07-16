@@ -16,3 +16,4 @@
 "test" = "exam"
 "txt" = "notepad"
 "wav" = "player-single-local"
+"lwrpub" = "publisher"
