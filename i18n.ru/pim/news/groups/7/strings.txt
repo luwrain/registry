@@ -1,2 +1,2 @@
-"name" = "CNEWS"
-"url1" = "http://www.cnews.ru/news.xml"
+"name" = "Тифлокомп.ру"
+"url1" = "http://www.tiflocomp.ru/index.php?mod=news&act=rss"

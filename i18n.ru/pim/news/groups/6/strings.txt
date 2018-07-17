@@ -1,2 +1,2 @@
-"name" = "Форбс.ру"
-"url1" = "http://www.forbes.ru/newrss.xml"
+"name" = "CNEWS"
+"url1" = "http://www.cnews.ru/news.xml"

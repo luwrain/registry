@@ -1,2 +1,2 @@
-"name" = "Тифлокомп.ру"
-"url1" = "http://www.tiflocomp.ru/index.php?mod=news&act=rss"
+"name" = "OpenNet"
+"url1" = "http://www.opennet.ru/opennews/opennews_all_noadv.rss"
