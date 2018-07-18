@@ -1,2 +1,0 @@
-"title" = "MAXIMA-LIBRARY"
-"url" = "http://maxima-library.org/opds"

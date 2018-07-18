@@ -1,0 +1,2 @@
+"title" = "iknigi"
+"url" = "http://iknigi.net/opds/"

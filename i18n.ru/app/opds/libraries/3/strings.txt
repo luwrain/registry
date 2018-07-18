@@ -1,2 +1,2 @@
-"title" = "iknigi"
-"url" = "http://iknigi.net/opds/"
+"title" = "Журнал ""Самиздат"""
+"url" = "http://opdshome.uo1.net/samlib/"
