@@ -33,6 +33,7 @@
 "ok" = "schemes/pragmatic/ok.wav"
 "paragraph" = "schemes/pragmatic/paragraph.wav"
 "paste" = "schemes/pragmatic/paste.wav"
+"playing" = "schemes/pragmatic/playing.wav"
 "protected-resource" = "schemes/pragmatic/protected-resource.wav"
 "region-point" = "schemes/pragmatic/region-point.wav"
 "search" = "schemes/pragmatic/search.wav"
