@@ -1,2 +1,0 @@
-"with-control" = "true"
-"with-alt" = "true"
