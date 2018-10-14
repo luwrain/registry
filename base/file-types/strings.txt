@@ -13,6 +13,7 @@
 "mp3" = "player-single-local"
 "mp4" = "mplayer"
 "ogg" = "player-single-local"
+"pdf" = "viewer"
 "test" = "exam"
 "txt" = "notepad"
 "wav" = "player-single-local"
