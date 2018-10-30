@@ -1,0 +1,4 @@
+"listening-engine-name" = "rhvoice"
+"listening-engine-params" = "voice=Alan"
+"main-engine-name" = "rhvoice"
+"main-engine-params" = "voice=Alan"

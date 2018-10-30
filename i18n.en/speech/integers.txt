@@ -1,0 +1,4 @@
+"listening-pitch" = "50"
+"listening-rate" = "50"
+"pitch" = "50"
+"rate" = "50"

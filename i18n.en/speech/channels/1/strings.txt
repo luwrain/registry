@@ -1,3 +1,0 @@
-"type" = "rhvoice"
-"name" = "RHVoice (interaction)"
-"voice-name" = "Alan+Aleksandr"
