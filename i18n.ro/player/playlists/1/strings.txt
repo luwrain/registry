@@ -1,0 +1,3 @@
+"title" = "Радио ВОС"
+"type" = "streaming"
+"url" = "http://radio.radiovos.ru:8000/radio"

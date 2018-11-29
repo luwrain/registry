@@ -1,0 +1,4 @@
+"full-name" = ""
+"default-mail-address" = ""
+"default-phone" = ""
+"signature" = "Best regards!"

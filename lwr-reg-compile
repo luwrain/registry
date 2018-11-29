@@ -5,7 +5,7 @@
 
 THIS="${0##*/}"
 
-LANGS="en ru"
+LANGS="en ro ru"
 
 [ -z "$1" ] && echo "$THIS:no flavor given" >&2 && exit 1
 [ -z "$2" ] && echo "$THIS:no destination directory given" >&2 && exit 1
