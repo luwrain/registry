@@ -1,4 +1,4 @@
-"listening-engine-name" = "rhvoice"
-"listening-engine-params" = "voice=Alan"
-"main-engine-name" = "rhvoice"
-"main-engine-params" = "voice=Alan"
+"listening-engine-name" = "cmdtts"
+"listening-engine-params" = "cmd=espeak -v ro"
+"main-engine-name" = "cmdtts"
+"main-engine-params" = "cmd=espeak -v ro"
