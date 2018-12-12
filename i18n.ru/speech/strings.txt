@@ -1,4 +1,4 @@
 "listening-engine-name" = "rhvoice"
 "listening-engine-params" = "voice=Elena"
-"main-engine-name" = "mssapi"
-"main-engine-params" = ""
+"main-engine-name" = "rhvoice"
+"main-engine-params" = "voice=Aleksandr"
