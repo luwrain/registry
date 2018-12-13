@@ -1,5 +1,5 @@
-"starting" = "background/starting.ogg"
-"main-menu" = "background/starting.ogg"
+"starting" = ""
+"main-menu" = ""
 "search" = ""
 "popup" = "background/popup.ogg"
 "wifi" = "background/wifi.ogg"
