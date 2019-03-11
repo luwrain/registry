@@ -1,1 +1,2 @@
-"title" = "Исходящие"
+"properties" = "lists=true\n"
+"title" = "Списки рассылок"
