@@ -1,6 +1,6 @@
 #!/bin/bash -e
 # Copyright 2012-2019 Michael Pozhidaev <msp@luwrain.org>
-# Compile registry data to common text files
+# Compiles the registry data to common text files
 # lwr-reg-compile FLAVOR DEST_DIR
 
 THIS="${0##*/}"
@@ -30,7 +30,7 @@ process-dir()
         cd $1
     find -type d | while read l; do
 	if [ "$l" != . ]; then
-	    echo "DIR org/luwrain/${l#./}"
+	    echo "DIR ${l#./}"
 	    process-file "$l" strings.txt
 	    process-file "$l" integers.txt
 	    process-file "$l" booleans.txt
@@ -40,7 +40,6 @@ process-dir()
 }
 
 (
-    echo 'DIR org/luwrain'
 for i in base base.$FLAVOR; do
     process-dir $i
 done
@@ -48,7 +47,6 @@ done
 
 for i in $LANGS; do
     (
-	echo 'DIR org/luwrain'
 	if [ -d "i18n.$i" ]; then
 	    process-dir "i18n.$i"
 	fi
