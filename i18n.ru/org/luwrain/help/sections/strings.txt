@@ -1,0 +1,8 @@
+"luwrain.default" = "http://luwrain.org/doc/user/manual/?mode=adapted&lang=ru"
+"luwrain.calc" = "http://luwrain.org/doc/user/manual/calc/?mode=adapted&lang=ru"
+"luwrain.notepad" = "http://luwrain.org/doc/user/manual/notepad/?mode=adapted&lang=ru"
+"luwrain.news" = "http://luwrain.org/doc/user/manual/news/?mode=adapted&lang=ru"
+"luwrain.player" = "http://luwrain.org/doc/user/manual/player/?mode=adapted&lang=ru"
+"luwrain.download" = "http://luwrain.org/doc/user/manual/download/?mode=adapted&lang=ru"
+"luwrain.opds" = "http://luwrain.org/doc/user/manual/opds/?mode=adapted&lang=ru"
+"luwrain.reader" = "http://luwrain.org/doc/user/manual/reader/?mode=adapted&lang=ru"
