@@ -1,3 +1,0 @@
-"title" = "Наше радио"
-"type" = "streaming"
-"url" = "http://178.161.130.30:8000/radio"
