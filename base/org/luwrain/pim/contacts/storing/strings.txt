@@ -1,6 +1,0 @@
-"type" = "jdbc"
-"driver" = "org.sqlite.JDBC"
-"url" = "jdbc:sqlite:$userdata/sqlite/contacts.db"
-"login" = ""
-"passwd" = ""
-"init-proc" = "sqlite"
