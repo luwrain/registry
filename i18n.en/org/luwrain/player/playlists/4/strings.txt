@@ -1,3 +1,0 @@
-"title" = "Мир"
-"type" = "streaming"
-"url" = "http://icecast.mirtv.cdnvideo.ru:8000/radio_mir128"

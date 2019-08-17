@@ -1,2 +1,0 @@
-"title" = "Завершение работы"
-"uni-refs" = "command:quit"

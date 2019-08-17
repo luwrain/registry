@@ -1,2 +1,0 @@
-"home-page" = "http://luwrain.org?lang=en&mode=adapted"
-"user-agent" = "Mozilla/5.0"

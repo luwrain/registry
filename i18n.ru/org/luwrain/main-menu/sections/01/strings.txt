@@ -1,2 +1,0 @@
-"title" = "Быстрый доступ"
-"uni-refs" = "command:reader-search-google"
