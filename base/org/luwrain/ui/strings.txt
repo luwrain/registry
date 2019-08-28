@@ -1,2 +1,2 @@
-"desktop-escape-command" = "quit"
-"desktop-title" = ""
+"desktop-escape-command" = "tsulib-quit"
+"desktop-title" = "Научная библиотека ТГУ"
