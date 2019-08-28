@@ -1,0 +1,2 @@
+"narrating-channel-name" = "rhvoice"
+"narrating-channel-params" = "voice=Elena"
