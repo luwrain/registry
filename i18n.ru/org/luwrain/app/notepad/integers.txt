@@ -1,1 +1,4 @@
 "narrated-file-len" = "300"
+"narrating-pause-duration" = "750"
+"narrating-speech-pitch" = "0"
+"narrating-speech-rate" = "-5"
