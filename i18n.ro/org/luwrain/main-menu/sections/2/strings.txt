@@ -1,2 +1,0 @@
-"title" = "Accessories"
-"uni-refs" = "command:commander\:command:player\:command:contacts\:command:notepad\:command:calc\:command:download\:command:control-panel"
