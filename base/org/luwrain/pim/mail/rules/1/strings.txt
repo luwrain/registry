@@ -1,3 +1,0 @@
-"action" = "move-to-folder"
-"dest-folder-uniref" = "mailfolder:7"
-"header-regex" = "^List-Id:"
