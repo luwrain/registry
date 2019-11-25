@@ -1,6 +1,0 @@
-"000001" = "empty:"
-"000002" = "section:Добро пожаловать в научную библиотеку ТГУ"
-"000003" = "empty:"
-"000004" = "command:tsulib"
-"000005" = "link:Руководство пользователя:reader:http://lib-api.tsu.ru/doc/manual/"
-"000006" = "command:quit"
