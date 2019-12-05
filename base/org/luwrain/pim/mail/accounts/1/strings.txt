@@ -1,0 +1,8 @@
+"host" = "smtp.lib.tsu.ru"
+"login" = "accessible-client@lib.tsu.ru"
+"passwd" = "subst-tsulib-password"
+"subst-address" = "accessible-client@lib.tsu.ru"
+"subst-name" = "Сервис для людей с нарушениями зрения"
+"title" = "Library mail delivering service"
+"trusted-hosts" = "*"
+"type" = "smtp"
