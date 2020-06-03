@@ -1,2 +1,0 @@
-"properties" = "lists=true\n"
-"title" = "Mailing lists"

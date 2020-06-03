@@ -3,4 +3,4 @@
 "000003" = "empty:"
 "000004" = "command:tsulib"
 "000005" = "link:Руководство пользователя:reader:http://lib-api.tsu.ru/doc/manual/"
-"000006" = "link:Завершение работы с научной библиотекой ТГУ:command:tsulib-quit"
+"000006" = "link:Выход:command:tsulib-quit"

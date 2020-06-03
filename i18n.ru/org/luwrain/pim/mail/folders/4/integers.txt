@@ -1,2 +1,0 @@
-"order-index" = "3"
-"parent-id" = "1"
