@@ -1,0 +1,6 @@
+"starting" = ""
+"main-menu" = ""
+"search" = ""
+"popup" = "background/popup.mp3"
+"wifi" = "background/wifi.mp3"
+"fetching" = "background/progress.
