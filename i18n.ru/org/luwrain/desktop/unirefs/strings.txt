@@ -1,3 +1,0 @@
-"000001" = "empty:"
-"000002" = "command:edu-anatomy"
-"000003" = "link:Выход:command:quit"
