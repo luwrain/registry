@@ -2,3 +2,4 @@
 "desktop-escape-command" = "quit"
 "desktop-title" = ""
 "window-title" = ""
+"disable-commands" = "control-panel:open:main-menu:man:term:install:player:calc"
