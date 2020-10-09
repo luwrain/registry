@@ -2,3 +2,4 @@
 "desktop-escape-command" = "quit"
 "desktop-title" = "Директ-Медиа"
 "window-title" = "Директ-Медиа"
+"disable-commands" = "control-panel:open:main-menu:player:calc"
