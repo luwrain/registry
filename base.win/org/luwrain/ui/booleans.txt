@@ -1,0 +1,2 @@
+"control-panel-command" = "true"
+"console-command" = "true"
