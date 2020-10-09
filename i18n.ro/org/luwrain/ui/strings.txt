@@ -1,3 +1,0 @@
-"desktop-content" = "[{""type"":""uniref"",""value"":""empty:""},{""type"":""uniref"",""value"":""section:Welcome to LUWRAIN!""},{""type"":""uniref"",""value"":""command:web""},{""type"":""uniref"",""value"":""command:player""},{""type"":""uniref"",""value"":""command:telegram""},{""type"":""uniref"",""value"":""command:twitter""},{""type"":""uniref"",""value"":""command:vk""},{""type"":""uniref"",""value"":""command:mail""},{""type"":""uniref"",""value"":""command:news""},{""type"":""uniref"",""value"":""empty:""}]"
-"desktop-escape-command" = "quit"
-"desktop-title" = ""
