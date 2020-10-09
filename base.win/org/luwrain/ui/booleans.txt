@@ -1,2 +1,2 @@
-"control-panel-command" = "true"
-"console-command" = "true"
+"control-panel-command" = "false"
+"console-command" = "false"
