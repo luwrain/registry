@@ -1,0 +1,2 @@
+"takes-urls" = "true"
+"takes-multiple" = "false"
