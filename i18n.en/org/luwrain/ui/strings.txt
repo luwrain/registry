@@ -1,6 +1,6 @@
 "desktop-content" = "[]"
 "main-menu-content" = "[]"
 "desktop-escape-command" = "quit"
-"desktop-title" = ""
-"window-title" = ""
+"desktop-title" = "LUWRAIN Books"
+"window-title" = "LUWRAIN Books"
 "disable-commands" = "player:calc"
