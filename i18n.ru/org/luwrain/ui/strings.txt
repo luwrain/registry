@@ -1,0 +1,6 @@
+"desktop-content" = "[]"
+"main-menu-content" = "[]"
+"desktop-escape-command" = "quit"
+"desktop-title" = "Невизуальная анатомия"
+"window-title" = "Невизуальная анатомия"
+"disable-commands" = "player:calc"
