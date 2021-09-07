@@ -1,0 +1,6 @@
+"desktop-content" = "[]"
+"main-menu-content" = "[]"
+"desktop-escape-command" = "quit"
+"desktop-title" = "Научная библиотека ТГУ"
+"window-title" = "Научная библиотека ТГУ"
+"disable-commands" = "player:calc"
