@@ -1,0 +1,6 @@
+"desktop-content" = "[]"
+"main-menu-content" = "[]"
+"desktop-escape-command" = "quit"
+"desktop-title" = ""
+"window-title" = ""
+"disable-commands" = "player:calc"
