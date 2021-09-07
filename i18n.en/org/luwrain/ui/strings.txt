@@ -1,0 +1,6 @@
+"desktop-content" = "[]"
+"main-menu-content" = "[]"
+"desktop-escape-command" = "quit"
+"desktop-title" = "Директ-Медиа"
+"window-title" = "Директ-Медиа"
+"disable-commands" = "player:calc"
