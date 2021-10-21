@@ -1,3 +1,0 @@
-"name" = "РБК"
-"url1" = "http://static.feed.rbc.ru/rbc/logical/footer/news.rss"
-"url2" = "http://static.feed.rbc.ru/rbc/internal/rss.rbc.ru/rbc.ru/newsline.rss"

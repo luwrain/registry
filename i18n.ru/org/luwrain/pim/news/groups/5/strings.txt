@@ -1,2 +1,0 @@
-"name" = "Форбс.ру"
-"url1" = "http://www.forbes.ru/newrss.xml"

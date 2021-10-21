@@ -1,2 +1,0 @@
-"name" = "OpenNet"
-"url1" = "http://www.opennet.ru/opennews/opennews_all_noadv.rss"

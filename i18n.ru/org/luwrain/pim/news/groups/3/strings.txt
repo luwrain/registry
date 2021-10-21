@@ -1,2 +1,0 @@
-"name" = "Life.ru"
-"url1" = "https://life.ru/xml/feed.xml"
