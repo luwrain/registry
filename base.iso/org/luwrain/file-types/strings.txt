@@ -12,6 +12,7 @@
 "mov" = "job:{name: ""sys"", args: [""/usr/bin/mplayer -fs lwr.args.bash &> /dev/null""]}"
 "mp3" = "player-single-local"
 "mp4" = "job:{name: ""sys"", args: [""/usr/bin/mplayer -fs lwr.args.bash &> /dev/null""]}"
+"mpg" = "job:{name: ""sys"", args: [""/usr/bin/mplayer -fs lwr.args.bash &> /dev/null""]}"
 "ogg" = "player-single-local"
 "txt" = "notepad"
 "wav" = "player-single-local"
