@@ -43,6 +43,7 @@
 "search" = "schemes/pragmatic/search.wav"
 "selected" = "schemes/pragmatic/selected.wav"
 "shutdown" = "schemes/pragmatic/shutdown.wav"
+"spelling" = "schemes/pragmatic/spelling.wav"
 "startup" = "schemes/pragmatic/startup.wav"
 "table-cell" = "schemes/pragmatic/table-cell.wav"
 "term-bell" = "schemes/pragmatic/term-bell.wav"
