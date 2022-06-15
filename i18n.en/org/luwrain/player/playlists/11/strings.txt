@@ -1,3 +1,0 @@
-"title" = "Серебряный дождь"
-"type" = "streaming"
-"url" = "http://radio.2kom.ru:8000/silver"

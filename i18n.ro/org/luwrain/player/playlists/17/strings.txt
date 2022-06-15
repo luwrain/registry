@@ -1,3 +1,0 @@
-"title" = "Русское радио"
-"type" = "streaming"
-"url" = "http://stream.fmprod.ru/rusradio"

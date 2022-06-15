@@ -1,3 +1,0 @@
-"title" = "Премиум"
-"type" = "streaming"
-"url" = "http://listen.rpfm.ru:9000/premium128"

@@ -1,3 +1,0 @@
-"title" = "DFM"
-"type" = "streaming"
-"url" = "http://stream.fmprod.ru/dfm"

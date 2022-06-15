@@ -1,3 +1,0 @@
-"title" = "Радио Шансон"
-"type" = "streaming"
-"url" = "http://www.nts-tv.ru:8000/Shanson"
