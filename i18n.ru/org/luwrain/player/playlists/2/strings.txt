@@ -1,3 +1,0 @@
-"title" = "Радио РАНСИС"
-"type" = "streaming"
-"properties" = "url=http://radio.ransis.org:8000/ransis\n"
