@@ -1,7 +1,7 @@
 "alert" = "schemes/pragmatic/alert.wav"
 "announcement" = "schemes/pragmatic/announcement.wav"
 "attention" = "schemes/pragmatic/attention.wav"
-"blocked" = "schemes/pragmatic/inaccessible.wav"
+"blocked" = "schemes/pragmatic/blocked.wav"
 "cancel" = ""
 "chat-message" = "schemes/pragmatic/chat-message.wav"
 "click" = "schemes/pragmatic/click.wav"
