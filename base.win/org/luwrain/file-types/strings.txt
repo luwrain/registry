@@ -4,5 +4,6 @@
 "mp3" = "player-single-local"
 "ogg" = "player-single-local"
 "pdf" = "viewer"
+"tex" = "studio"
 "txt" = "notepad"
 "wav" = "player-single-local"

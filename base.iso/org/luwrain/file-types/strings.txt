@@ -13,5 +13,6 @@
 "mpg" = "job:{name: ""sys"", args: [""/usr/bin/mplayer -fs lwr.args.bash &> /dev/null""]}"
 "ogg" = "player-single-local"
 "pdf" = "viewer"
+"tex" = "studio"
 "txt" = "notepad"
 "wav" = "player-single-local"
