@@ -1,3 +1,0 @@
-"folder-pending" = "mailfolder:3"
-"folder-sent" = "mailfolder:4"
-"folder-inbox" = "mailfolder:6"
